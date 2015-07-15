@@ -11,4 +11,4 @@ First, I tried to convert a pre made bootstrap layout to use g-grid. Well, lt's 
 
 Second, I tried to create a SIMPLE template from scratch with my grid. Two divs in I got a taste of how far it has to go if it would ever be a real contender. 
 
-It is with a heavy heart and more experienced brow that I now declare this repo defunct. Stay tuned for a new link.
+It is with a heavy heart and more experienced brow that I now declare [this repo](https://github.com/DevCabin/g-grid) defunct. Stay tuned for a new link.
